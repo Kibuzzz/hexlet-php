@@ -1,0 +1,9 @@
+{
+    "name": "pablo/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Pablo\\HexletPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
